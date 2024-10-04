@@ -1,0 +1,23 @@
+{
+  "components": [
+    {
+      "label": "Enter user id",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_0fni875",
+        "columns": null
+      },
+      "id": "Field_1d96xll",
+      "key": "user_id"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0leuz7d",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.27.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.21.0",
+  "schemaVersion": 16
+}

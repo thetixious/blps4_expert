@@ -1,0 +1,33 @@
+{
+  "components": [
+    {
+      "label": "Cards for approval",
+      "type": "textarea",
+      "layout": {
+        "row": "Row_1qfy1ek",
+        "columns": null
+      },
+      "id": "Field_0pmpnbg",
+      "key": "cards_for_approval"
+    },
+    {
+      "label": "Enter cards id",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_0yu32ao",
+        "columns": null
+      },
+      "id": "Field_1cc2fhb",
+      "key": "cards_id"
+    }
+  ],
+  "type": "default",
+  "id": "en",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.27.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.21.0",
+  "schemaVersion": 16
+}
